@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Rocks R Us</string>
+
+    <!-- Hint text display for the header [CHAR LIMIT=20] -->
+    <string name="header">THE ROCK TEST</string>
+    <!-- Hint text display in the empty field for the question number [CHAR LIMIT=20] -->
+    <string name="question1">Question 1</string>
+    <!-- Hint text display in the empty field for the actual question [CHAR LIMIT=20] -->
+    <string name="actual_question1">How thick is the crust of the earth?</string>
+    <!-- Hint text display for options [CHAR LIMIT=20] -->
+    <string name="radio1a">About 4 miles</string>
+    <string name="radio1b">About 4 km</string>
+    <string name="radio1c">About 40 km</string>
+    <string name="radio1d">About 45 miles</string>
+
+    <!-- Hint text display in the empty field for the question number [CHAR LIMIT=20] -->
+    <string name="question2">Question 2</string>
+    <!-- Hint text display in the empty field for the actual question [CHAR LIMIT=20] -->
+    <string name="actual_question2">The layer that separates the crust from the core is the?</string>
+    <!-- Hint text display for options [CHAR LIMIT=20] -->
+    <string name="radio2a">Magma layer</string>
+    <string name="radio2b">Lithosphere</string>
+    <string name="radio2c">Mantle</string>
+    <string name="radio2d">Asthenosphere</string>
+
+
+    <!-- Hint text display in the empty field for the question number [CHAR LIMIT=20] -->
+    <string name="question3">Question 3</string>
+    <!-- Hint text display in the empty field for the actual question [CHAR LIMIT=20] -->
+    <string name="actual_question3">What powers the earth\'s internal heat engine?</string>
+    <!-- Hint text display for options [CHAR LIMIT=20] -->
+    <string name="radio3a">Radioactivity</string>
+    <string name="radio3b">Volcanoes</string>
+    <string name="radio3c">Solar energy</string>
+    <string name="radio3d">Ocean tides</string>
+
+    <!-- Hint text display in the empty field for the question number [CHAR LIMIT=20] -->
+    <string name="question4">Question 4</string>
+    <!-- Hint text display in the empty field for the actual question [CHAR LIMIT=20] -->
+    <string name="actual_question4">Metamormorphic focks are changed rocks. Which of the following rock types could be the parent of a metamorphic rock?</string>
+    <!-- Hint text display for options [CHAR LIMIT=20] -->
+    <string name="checkbox1">Igneous</string>
+    <string name="checkbox2">Sedimentary</string>
+    <string name="checkbox3">Metamorphic</string>
+
+    <!-- Hint text display in the empty field for the question number [CHAR LIMIT=20] -->
+    <string name="question5">Question 5</string>
+    <string name="actual_question5">Who is called the \"father\" of geology?</string>
+
+    <!-- Edit text field hint -->
+    <string name="answer">E.g john doe</string>
+    <string name="scoredisplay" />
+    <string name="display_part1">Your final score is </string>
+    <string name="display_part2">correct answers out of 5</string>
+    <string name="toast_message1">You have answered </string>
+    <string name="toast_message2">question correctly </string>
+
+</resources>
